@@ -3,18 +3,18 @@
 # Abstract
 Over the last several years there has been an attempt from Russian trolls to spread propaganda and fake news over social media in order to spread political ideas among the general population both nationally and internationally. Can these attempts be regarded as undermining the democracy of the affected countries? 
  
-In this project we are going to analyze a great number of these russian tweets and look into their motivations for this meddling. We will mainly look into their overall political goals in the US, and examine how these goals change over time. Have the trolls achieved their goals? We will also look into how the trolls organize and operate with the hope of finding patterns in the madness. Such patterns can hopefully help the general population to indicate that a tweet is originating from a troll. As the Russian efforts are increasing every year, a solution is needed to defend the democracy.
+In this project we are going to analyze a great number of these russian tweets and look into their motivations for this meddling. We will mainly look into their overall political goals in the US, and examine how these goals change over time. Have the trolls achieved their goals? We will also look into how the trolls operate and organize themselves, trying to find patterns in the madness. Such patterns can hopefully help the general population to indicate that a tweet is originating from a troll. As the Russian efforts are increasing every year, a solution is needed to defend the democracy.
 
 # Research questions
 - Which themes does the propaganda mainly revolve around? Which issues should people be particularly careful not to believe everything they read?
  
 - Does the trolls advocate for a common political stance in each specific country? If so which leaning do they have? If not, how polarized are the tweets between left leaning and right leaning?
  
-- Are the trolls organized as a unit? Do they interact with each other (retweets, etc)?
- 
 - Were the tweets united with a common political leaning in the period after the primaries in the US elections?
  
 - Was the original mission of the Russian trolls for the US election to make sure that Clinton was not elected, or to get Trump elected?
+ 
+- Are the trolls organized as a unit? Do they interact with each other (retweets, etc)?
  
 - Is there a way for people without a technical background to determine if a tweet is coming from a Russian troll?
 
