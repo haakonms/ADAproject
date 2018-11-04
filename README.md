@@ -49,7 +49,7 @@ The data set it pretty small so it should be pretty manageable to process with p
 # Questions for TAa
 - Are the time stamps in the local time for the area the tweet is coming from, or are they time-stamped in regards to a specific time zone like the Swiss or American?
 
-- Does the visualization used in the report/ presentation have to be the same as the visualization delivered on 25th november?
+- Does the visualization used in the report/presentation have to be the same as the visualization delivered on 25th november?
 
-- "Descriptive analysis”, how detailed should this be?
+- "Descriptive analysis”: how detailed should this be?
 
