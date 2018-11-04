@@ -6,11 +6,11 @@ Over the last several years there has been an attempt from Russian trolls to spr
 In this project we are going to analyze a great number of these russian tweets and look into their motivations for this meddling. We will mainly look into their overall political goals in the US, and examine how these goals change over time. Have the trolls achieved their goals? We will also look into how the trolls operate and organize themselves, trying to find patterns in the madness. Such patterns can hopefully help the general population to indicate that a tweet is originating from a troll. As the Russian efforts are increasing every year, a solution is needed to defend the democracy.
 
 # Research questions
-- Which themes does the propaganda mainly revolve around? Which issues should people be particularly careful not to believe everything they read?
+- Which themes does the propaganda mainly revolve around? About which issues should people be particularly careful not to believe everything they read?
  
 - Does the trolls advocate for a common political stance in each specific country? If so which leaning do they have? If not, how polarized are the tweets between left leaning and right leaning?
  
-- Were the tweets united with a common political leaning in the period after the primaries in the US elections?
+- Were the trolls united with a common political leaning in the period after the primaries in the US elections?
  
 - Was the original mission of the Russian trolls for the US election to make sure that Clinton was not elected, or to get Trump elected?
  
@@ -23,7 +23,7 @@ In this project we are going to analyze a great number of these russian tweets a
  
 This dataset contains around three million tweets and retweets from 2848 unique twitter users. Each tweet has several attributes, some of them are extracted from the tweet itself. For instance the author, content, and time stamp. Other attributes are later added. An example of such attributes is category of the troll, e.g. RightTroll, NewsFeed, etc.
  
-There are many factors that we can examine in the dataset. Looking at given features like timing could be very interesting to find patterns. We also intend to add features, in order to make the dataset more suitable for our analysis. As every data point contains the whole tweet itself, it is possible to perform a broad analysis on the content. This could be used to determine whether a certain person or word is mentioned, and add the overall theming as a feature.  Another example would be a feature stating whether a tweet is a retweet of another troll, unique, or identical to another tweet in the set. 
+There are many factors that we can examine in the dataset. Looking at given features like timing could be very interesting to find patterns. We also intend to add features, in order to make the dataset more suitable for our analysis. As every data point contains the whole tweet itself, it is possible to perform a broad analysis on the content. This could be used to determine whether a certain person or word is mentioned, and add the overall theming as a feature.  Another example of a possible extra feature would be a feature stating whether a tweet is a retweet of another troll, unique, or identical to another tweet in the set. 
  
 The data set it pretty small so it should be pretty manageable to process with pandas, but spark could also be used.
 
@@ -49,5 +49,7 @@ The data set it pretty small so it should be pretty manageable to process with p
 # Questions for TAa
 - Are the time stamps in the local time for the area the tweet is coming from, or are they time-stamped in regards to a specific time zone like the Swiss or American?
 
-- Does the visualization used in the report/ presentation have to be the same as the visualization delivered on 25th november? And “descriptive analysis”, how detailed should this be?
+- Does the visualization used in the report/ presentation have to be the same as the visualization delivered on 25th november?
+
+- "Descriptive analysis”, how detailed should this be?
 
