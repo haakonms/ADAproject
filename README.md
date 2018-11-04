@@ -19,7 +19,7 @@ In this project we are going to analyze a great number of these russian tweets a
 - Is there a way for people without a technical background to determine if a tweet is coming from a Russian troll?
 
 # Dataset
-IRA russian twitter trolls - Three million tweets amounting to 175 Mb, along with a detailed description of the dataset https://www.kaggle.com/fivethirtyeight/russian-troll-tweets 
+[IRA russian twitter trolls](https://www.kaggle.com/fivethirtyeight/russian-troll-tweets) - Three million tweets amounting to 175 Mb, along with a detailed description of the dataset 
  
 This dataset contains around three million tweets and retweets from 2848 unique twitter users. Each tweet has several attributes, some of them are extracted from the tweet itself. For instance the author, content, and time stamp. Other attributes are later added. An example of such attributes is category of the troll, e.g. RightTroll, NewsFeed, etc.
  
