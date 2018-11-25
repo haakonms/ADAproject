@@ -15,6 +15,10 @@ In this project we are going to analyze a great number of these russian tweets a
 - Was the original mission of the Russian trolls for the US election to make sure that Clinton was not elected, or to get Trump elected? **Answered**
  
 - Are the trolls organized as a unit? Do they interact with each other (retweets, etc)? **Partly answered, but are going to be looked more into detail to the next milestone.**
+
+- Which themes does the propaganda mainly revolve around? About which issues should people be particularly careful not to believe everything they read? 
+
+*We used libraries with text classifiers to look at this, but did not really get the result we wanted. We still want to look harder into it, to maybe extract some information for the last research question*
  
 - Is there a way for people without a technical background to determine if a tweet is coming from a Russian troll?
 
