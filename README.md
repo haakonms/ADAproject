@@ -45,11 +45,24 @@ The data set it pretty small so it should be pretty manageable to process with p
 - Make sure our code is fully commented and debugged.
 - Add readable analysis of our findings that a stranger could understand. 
 
+## New 
 
-# Questions for TAa
-- Are the time stamps in the local time for the area the tweet is coming from, or are they time-stamped in regards to a specific time zone like the Swiss or American?
+### 30th of November:
+- Look deeper into the main  research question regarding whether a person without a technical background could determinate if a Twitter user is a troll.
+- Start working on a model that can predict the categories of the second Twitter set.
+- Analyse the second twitter set and eventually look at the two merged together.
 
-- Does the visualization used in the report/presentation have to be the same as the visualization delivered on 25th november?
+### 6th of December:
+- Finish our main study goal
+- End the analysis of the two sets in whole and determine the final visualiations for our notebook.
+- Apply the model 
 
-- "Descriptive analysis”: how detailed should this be?
+
+### 14th of December:
+- Choose the best findings, topics and visualisation and apply this in the data story.
+- In general, finish our data story (and poster if necessary).
+
+
+# Questions for TA's
+- Does the poster have to be finished as well to the third milestone?
 
