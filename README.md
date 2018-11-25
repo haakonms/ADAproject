@@ -28,7 +28,7 @@ There are many factors that we can examine in the dataset. Looking at given feat
 The data set it pretty small so it should be pretty manageable to process with pandas, but spark could also be used.
 
 
-# A list of internal milestones up until project milestone 2
+# A list of internal milestones up to project milestone 2
 ### 9th of November:
 - ~~Create a skeleton for our project~~
 - ~~Import and clean the data.~~
@@ -43,9 +43,9 @@ The data set it pretty small so it should be pretty manageable to process with p
 - Finish all of our analysis. *(Not finished as of second milestone deadline)*
 - Visualize our findings. *(Not fully finished as of second milestone deadline)*
 - ~~Make sure our code is fully commented and debugged.~~
-- ~~Add readable analysis of our findings that a stranger could understand. ~~
+- ~~Add readable analysis of our findings that a stranger could understand.~~
 
-## New 
+# New internal milestones up to project milestone 3
 
 ### 30th of November:
 - Look deeper into the main  research question regarding whether a person without a technical background could determinate if a Twitter user is a troll.
