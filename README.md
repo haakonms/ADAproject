@@ -6,7 +6,7 @@ Over the last several years there has been an attempt from Russian trolls to spr
 In this project we are going to analyze a great number of these russian tweets and look into their motivations for this meddling. We will mainly look into their overall political goals in the US, and examine how these goals change over time. Have the trolls achieved their goals? We will also look into how the trolls operate and organize themselves, trying to find patterns in the madness. Such patterns can hopefully help the general population to indicate that a tweet is originating from a troll. As the Russian efforts are increasing every year, a solution is needed to defend the democracy.
 
 # Research questions
-~~- Does the trolls advocate for a common political stance in each specific country? If so which leaning do they have? If not, how polarized are the tweets between left leaning and right leaning?~~
+- ~~Does the trolls advocate for a common political stance in each specific country? If so which leaning do they have? If not, how polarized are the tweets between left leaning and right leaning?~~
  
 *To check other languages was an idea we were initally eager to do, but after a conversation with the TA and looking into it ourself we found out that this became more difficult than initially thought. A lot of foreign languages were not correctly identified, and it made more sense to just focus on the english content regarding the american election.*
 
