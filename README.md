@@ -1,4 +1,5 @@
 # Twitter trolls - how Russia meddles with western democracies
+For milestone 2, the file Milstone2.ipynb should be looked at.
 
 # Abstract
 Over the last several years there has been an attempt from Russian trolls to spread propaganda and fake news over social media in order to spread political ideas among the general population both nationally and internationally. Can these attempts be regarded as undermining the democracy of the affected countries? 
