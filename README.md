@@ -1,5 +1,11 @@
 # Twitter trolls - how Russia meddles with western democracies
-For milestone 2, the file Milstone2.ipynb should be looked at. Ignore the checkpoint folder.
+
+## Overview of the content in the repo.
+Milestone2.ipynb is the file we had ready for the second milestone. This file is a part of the process of doing this project and can be looked at to compare the difference between our steps in working with this project. 
+
+Milestone3.ipynb is the final milestone file with all of our preprocessing, analysis and thoughts regarding the project. The file is categorized and numbered in different parts, the first three of them including all our code. 
+
+The final data story contains 
 
 The data story for this project can be found at [this link](https://haakonms.github.io/ADAwebsite/).
 The git repo for the data story can be found [here](https://github.com/haakonms/ADAwebsite).
@@ -74,6 +80,7 @@ The data set it pretty small so it should be pretty manageable to process with p
 - In general, finish our data story (and poster if necessary).
 
 
-# Questions for TA's
-- Does the poster have to be finished as well to the third milestone?
+# Contributors
+Håkon Grini: Preprocessing second dataset, analysis of our main research questions. 
+Håkon Sveen: Preprocessing the first dataset, preliminary analysis of the datasets, visualization, creating the data story.
 
