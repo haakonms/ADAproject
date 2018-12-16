@@ -5,7 +5,7 @@ Milestone2.ipynb is the file we had ready for the second milestone. This file is
 
 Milestone3.ipynb is the final milestone file with all of our preprocessing, analysis and thoughts regarding the project. The file is categorized and numbered in different parts, the first three of them including all our code. 
 
-The final data story contains 
+The final data story contains visualizations of what we feel are our most interesting findings. To look at every little detail, please look at Milestone3.ipynb.
 
 The data story for this project can be found at [this link](https://haakonms.github.io/ADAwebsite/).
 The git repo for the data story can be found [here](https://github.com/haakonms/ADAwebsite).
@@ -20,65 +20,24 @@ In this project we are going to analyze a great number of these russian tweets a
  
 *To check other languages was an idea we were initally eager to do, but after a conversation with the TA and looking into it ourself we found out that this became more difficult than initially thought. A lot of foreign languages were not correctly identified, and it made more sense to just focus on the english content regarding the american election.*
 
+- ~~Which themes does the propaganda mainly revolve around? About which issues should people be particularly careful not to believe everything they read? ~~
+
+*We used libraries with text classifiers to look at this, but did not really get the result we wanted. We still want to look harder into it, to maybe extract some information for the last research question*
+
 - Were the trolls united with a common political leaning in the period after the primaries in the US elections? **Answered**
  
 - Was the original mission of the Russian trolls for the US election to make sure that Clinton was not elected, or to get Trump elected? **Answered**
  
-- Are the trolls organized as a unit? Do they interact with each other (retweets, etc)? **Partly answered, but are going to be looked more into detail to the next milestone.**
+- Are the trolls organized as a unit? Do they interact with each other (retweets, etc)? **Answered**
 
-- Which themes does the propaganda mainly revolve around? About which issues should people be particularly careful not to believe everything they read? 
-
-*We used libraries with text classifiers to look at this, but did not really get the result we wanted. We still want to look harder into it, to maybe extract some information for the last research question*
- 
-- Is there a way for people without a technical background to determine if a tweet is coming from a Russian troll?
+- Is there a way for people without a technical background to determine if a tweet is coming from a Russian troll? **Answered**
 
 # Dataset
 [IRA russian twitter trolls](https://www.kaggle.com/fivethirtyeight/russian-troll-tweets) - Three million tweets amounting to 175 Mb, along with a detailed description of the dataset 
  
 This dataset contains around three million tweets and retweets from 2848 unique twitter users. Each tweet has several attributes, some of them are extracted from the tweet itself. For instance the author, content, and time stamp. Other attributes are later added. An example of such attributes is category of the troll, e.g. RightTroll, NewsFeed, etc.
- 
-There are many factors that we can examine in the dataset. Looking at given features like timing could be very interesting to find patterns. We also intend to add features, in order to make the dataset more suitable for our analysis. As every data point contains the whole tweet itself, it is possible to perform a broad analysis on the content. This could be used to determine whether a certain person or word is mentioned, and add the overall theming as a feature.  Another example of a possible extra feature is stating whether a tweet is a retweet of another troll, unique, or identical to another tweet in the set. 
- 
-The data set it pretty small so it should be pretty manageable to process with pandas, but spark could also be used.
 
-
-# A list of internal milestones up to project milestone 2
-### 9th of November:
-- ~~Create a skeleton for our project~~
-- ~~Import and clean the data.~~
-- ~~Look into whether or not processing data on the cluster will be necessary.~~
- 
-### 16th of November:
-- ~~Process the data set and make new features.~~
-- ~~Perform most of our analysis and answer our research questions.~~
-- Figure out a good way to visualize results. *(Not pleased enough as of second deadline)*
- 
-### 23rd of November:
-- Finish all of our analysis. *(Not finished as of second milestone deadline)*
-- Visualize our findings. *(Not fully finished as of second milestone deadline)*
-- ~~Make sure our code is fully commented and debugged.~~
-- ~~Add readable analysis of our findings that a stranger could understand.~~
-
-# New internal milestones up to project milestone 3
-
-### 30th of November:
-- Look deeper into the main  research question regarding whether a person without a technical background could determinate if a Twitter user is a troll.
-- Start working on a model that can predict the categories of the second Twitter set.
-- Analyse the second twitter set and eventually look at the two merged together.
-- Finish the unfinished tasks from the second milestone.
-
-### 6th of December:
-- Finish our main study goal
-- End the analysis of the two sets in whole and determine the final visualiations for our notebook.
-- Apply the model on the test set of the first data set.
-
-### 9th of December:
-- Apply the model to the second dataset if giving positive results.
-
-### 14th of December:
-- Choose the best findings, topics and visualisation and apply this in the data story.
-- In general, finish our data story (and poster if necessary).
-
+We also have used a second dataset that Twitter released the autumn of 2018. 
 
 # Contributors
 Håkon Grini: Preprocessing second dataset, analysis of our main research questions. 
